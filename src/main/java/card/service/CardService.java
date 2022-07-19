@@ -1,4 +1,4 @@
-package card;
+package card.service;
 
 
 import card.model.Card;
